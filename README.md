@@ -1,4 +1,4 @@
-📊 Project Title
+📊 Project:
 Analysing the effectiveness of Lockdown and Covid-19 Vaccinations together in it's effectivneness in increasing mobility after Covid-19
 
 📘 Overview
