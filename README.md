@@ -1,5 +1,5 @@
 📊 Project:
-Analysing the effectiveness of Lockdown and Covid-19 Vaccinations together in it's effectivneness in increasing mobility after Covid-19
+Analysing the effectiveness of Lockdown and Covid-19 Vaccinations together in it's effectiveness in increasing mobility after Covid-19
 
 📘 Overview
 This project explores how government lockdowns and vaccination efforts affected urban mobility in Thailand during the Covid-19 peak period (April–December 2021). Thailand, the first country outside China to report a Covid-19 case, experienced its worst outbreak in August 2021. We compare mobility patterns across two lockdown phases (2020 vs 2021), assess the impact of daily cases and vaccination rates on mobility, and evaluate sector-wise changes in movement behavior.
